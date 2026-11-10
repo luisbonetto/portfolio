@@ -1,6 +1,16 @@
 # Portfólio Profissional — Luis Fernando Bonetto
 
+🌐 **Site Online**: [https://luisbonetto.github.io/portfolio/](https://luisbonetto.github.io/portfolio/)
+
 Site profissional e portfólio de **Luis Fernando Bonetto**, Desenvolvedor de Software Júnior & Especialista em Automação.
+
+---
+
+## 📄 Currículos Direcionados Disponíveis
+- **Desenvolvedor de Software Júnior / Estágio**: [`curriculo-desenvolvedor.html`](curriculo-desenvolvedor.html)
+- **Técnico Eletrônico & Automação**: [`curriculo-eletronica.html`](curriculo-eletronica.html)
+
+Ambos contam com layout A4 limpo e botão integrado para **Salvar em PDF / Imprimir**.
 
 ---
 
